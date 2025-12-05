@@ -205,33 +205,6 @@ When you run the script, it generates the following files:
 
 *Note: Actual results may vary slightly due to random initialization and data splits.*
 
-## Course Information
-
-**Course:** Basics of AI  
-**Institution:** [Your Institution]  
-**Academic Year:** [Your Year]  
-**Topic:** Binary Classification with Logistic Regression
-
-This project demonstrates fundamental concepts in machine learning including:
-- Data preprocessing and cleaning
-- Feature engineering and selection
-- Model training and validation
-- Hyperparameter optimization
-- Model evaluation and interpretation
-
-## Future Enhancements
-
-Potential improvements for this project:
-
-- [ ] Add ensemble methods (Random Forest, Gradient Boosting)
-- [ ] Implement feature selection algorithms
-- [ ] Add more advanced feature engineering
-- [ ] Create an interactive dashboard (Streamlit/Dash)
-- [ ] Deploy model as a web API
-- [ ] Add CI/CD pipeline with GitHub Actions
-- [ ] Implement model interpretability (SHAP values)
-- [ ] Create a Jupyter notebook version
-
 ## Contributing
 
 This is an academic project, but suggestions and improvements are welcome! Feel free to:
@@ -246,20 +219,4 @@ This is an academic project, but suggestions and improvements are welcome! Feel 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [Kaggle](https://www.kaggle.com) for providing the Titanic dataset
-- Scikit-learn team for excellent machine learning tools
-- Course instructors and teaching assistants
-- The data science community
-
-## Contact
-
-For questions or feedback about this project:
-
-- **Repository:** [github.com/wutangrepo/titanic-logistic-regression](https://github.com/wutangrepo/titanic-logistic-regression)
-- **Issues:** [Report an issue](https://github.com/wutangrepo/titanic-logistic-regression/issues)
-
 ---
-
-**Made with ❤️ for the Basics of AI course**
